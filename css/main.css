@@ -1,0 +1,12 @@
+body {
+	padding-top: 70px;
+}
+
+.carousel-item-img{
+	width: 1140px;
+	/*height: 350px;*/
+}
+
+.mainCarousel{
+	width: 1140px;
+}
